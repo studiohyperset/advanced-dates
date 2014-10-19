@@ -19,9 +19,7 @@ Please note that the plugin will not take effect, even after activation, until a
 
 For feedback and help, visit: http://getsatisfaction.com/studio_hyperset/products/studio_hyperset_wordpress_plugins
 
-To learn about other Studio Hyperset WordPress plugins, visit http://studiohyperset.com/projects/wordpress-plugins
-
-To learn about other Studio Hyperset code projects, visit http://code.google.com/p/studio-hyperset/downloads/list
+To learn about other Studio Hyperset WordPress plugins, visit http://studiohyperset.com/#solutions
 
 **DEVELOPER NOTES**
 
