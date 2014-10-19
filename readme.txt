@@ -28,7 +28,7 @@ Please note that the plugin will not take effect, even after activation, until a
 
 * To learn about other Studio Hyperset code projects, visit http://code.google.com/p/studio-hyperset/downloads/list
 
-* To help develop Advanced Dates, visit https://github.com/studiohyperset/advanced-dates
+* To help develop the Advanced Dates plugin, visit https://github.com/studiohyperset/advanced-dates
 
 = Developer Notes =
 
@@ -38,7 +38,7 @@ Also, the WordPress functions `get_the_time` and `the_time` work only on pages w
 
 Moreover, if a publisher or developer finds the plugin isn't working for a particular theme, it's likely the result of improper usage of one or more of the four date-oriented WordPress functions referenced above. For the Advanced Date plugin to work, developers need to use the `get_the_time` and `the_time` functions on pages and the `get_the_date` and `the_date` functions on posts.
 
-Interested in helping develop the Advanced Dates plugin, visit the GitHub repository: https://github.com/studiohyperset/advanced-dates
+Interested in helping develop the Advanced Dates plugin? Visit the GitHub repository: https://github.com/studiohyperset/advanced-dates
 
 = Future Builds =
 
