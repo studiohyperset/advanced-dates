@@ -147,7 +147,7 @@
 		
 		<p class="p-small"><strong>Links</strong><br />
 		<a href="http://wordpress.org/extend/plugins/advanced-dates/" target="_blank">Advanced Dates</a> :: <a href="http://studiohyperset.com/wordpress-advanced-dates-plugin/4016" target="_blank">Discussion</a> | <a href="http://getsatisfaction.com/studio_hyperset/products/studio_hyperset_wordpress_plugins" target="_blank">Support</a> | <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=C2KQADH2TGTS4" target="_blank">Donate</a>
-		<br /><a href="http://studiohyperset.com" target="_blank">SH</a> :: <a href="http://studiohyperset.com/projects/wordpress-plugins" target="_blank">WordPress Plugins</a> | <a href="http://www.facebook.com/pages/Studio-Hyperset-Inc/10395843341" target="_blank">Facebook</a> | <a href="http://twitter.com/#!/studiohyperset" target="_blank">Twitter</a></p>
+		<br /><a href="http://studiohyperset.com" target="_blank">SH</a> :: <a href="http://studiohyperset.com/#solutions" target="_blank">WordPress Plugins</a> | <a href="http://www.facebook.com/pages/Studio-Hyperset-Inc/10395843341" target="_blank">Facebook</a> | <a href="http://twitter.com/#!/studiohyperset" target="_blank">Twitter</a></p>
 		
 		</div>
 		<p class="learn-more"><a href="options-general.php?page=advanced_dates">Settings &raquo; Advanced Dates</a></p>';
@@ -210,9 +210,9 @@
             
            <p id="list">&raquo; <a href="http://studiohyperset.com/wordpress-advanced-dates-plugin/4016" target="_blank">Share ideas and read more about</a> the "Advanced Dates" plugin.<br />
            &raquo; Plugin <a href="http://getsatisfaction.com/studio_hyperset/products/studio_hyperset_wordpress_plugins" target="_blank">support, feedback, and troubleshooting</a>.<br /> 
-           &raquo; Browse <a href="http://studiohyperset.com/projects/wordpress-plugins" target="_blank">SH's other WordPress plugins</a>.<br />
+           &raquo; Browse <a href="http://studiohyperset.com/#solutions" target="_blank">SH's other WordPress plugins</a>.<br />
            &raquo; Like the plugin? <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=C2KQADH2TGTS4" target="_blank">Send a donation</a>.<br />
-           &raquo; <a href="http://studiohyperset.com/contact" target="_blank">Contact SH</a> and/or link up with us on <a href="http://www.facebook.com/pages/Studio-Hyperset-Inc/10395843341" target="_blank">Facebook</a> and <a href="http://twitter.com/#!/studiohyperset" target="_blank">Twitter</a>.
+           &raquo; <a href="http://studiohyperset.com/#contact" target="_blank">Contact SH</a> and/or link up with us on <a href="http://www.facebook.com/pages/Studio-Hyperset-Inc/10395843341" target="_blank">Facebook</a> and <a href="http://twitter.com/#!/studiohyperset" target="_blank">Twitter</a>.
            </p>
 			<div class="border2"></div>
      
