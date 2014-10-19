@@ -32,7 +32,9 @@ Also, the WordPress functions get_the_time and the_time work only on pages while
 Moreover, if a publisher or developer finds the plugin isn't working for a particular theme, it's likely the result of improper usage of one or more of the four date-oriented WordPress functions referenced above. For the Advanced Date plugin to work, developers need to use the get_the_time and the_time functions on pages and the get_the_date and the_date functions on posts.
 
 **FUTURE BUILDS**
+
 - integrate "creative" date framework for sci-fi and speculative fiction and other create-your-own calendar and date systems
 
 **CHANGELOG**
+
 - 1.0 (8/31/11) - Initial Google Code Project Hosting (http://code.google.com/p/studio-hyperset/downloads/list) & WordPress Plugin Directory release
