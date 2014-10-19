@@ -35,4 +35,4 @@ Moreover, if a publisher or developer finds the plugin isn't working for a parti
 - integrate "creative" date framework for sci-fi and speculative fiction and other create-your-own calendar and date systems
 
 **CHANGELOG**
-1.0 (8/31/11) - Initial Google Code Project Hosting (http://code.google.com/p/studio-hyperset/downloads/list) & WordPress Plugin Directory release
+- 1.0 (8/31/11) - Initial Google Code Project Hosting (http://code.google.com/p/studio-hyperset/downloads/list) & WordPress Plugin Directory release
