@@ -35,4 +35,4 @@ Moreover, if a publisher or developer finds the plugin isn't working for a parti
 
 **CHANGELOG**
 
-- 1.0 (8/31/11) - Initial Google Code Project Hosting (http://code.google.com/p/studio-hyperset/downloads/list) & WordPress Plugin Directory release
+- 1.0 (8/31/11) - Initial release

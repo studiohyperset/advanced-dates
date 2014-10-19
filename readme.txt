@@ -48,9 +48,9 @@ Interested in helping develop the Advanced Dates plugin? Visit the GitHub reposi
 == Changelog ==
 
 = 1.0 =
-* 8/31/11 - Initial Google Code Project Hosting (http://code.google.com/p/studio-hyperset/downloads/list) & WordPress Plugin Directory release
+* 8/31/11 - Initial release
 
 == Upgrade Notice ==
 
 = 1.0 =
-* 8/31/11 - Initial Google Code Project Hosting (http://code.google.com/p/studio-hyperset/downloads/list) & WordPress Plugin Directory release
+* 8/31/11 - Initial release
