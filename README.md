@@ -35,4 +35,5 @@ Moreover, if a publisher or developer finds the plugin isn't working for a parti
 
 **CHANGELOG**
 
+- 1.0.1 (10/31/14) - Added support for custom post types
 - 1.0 (8/31/11) - Initial release
