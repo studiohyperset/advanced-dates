@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: dates, year, get_the_time, the_time, get_the_date, the_date, history, historical timestamp, old dates, pre-1969 timestamp, pre-1970 timestamp
 Requires at least: 3.0
 Tested up to: 4.0
-Stable tag: 1.0
+Stable tag: 1.0.1
 
 Allows publishers to easily customize the publication year of posts and pages.
 
@@ -47,10 +47,16 @@ Interested in helping develop the Advanced Dates plugin? Visit the GitHub reposi
 
 == Changelog ==
 
+= 1.0.1 =
+* 10/31/14 - Added support for custom post types
+
 = 1.0 =
 * 8/31/11 - Initial release
 
 == Upgrade Notice ==
+
+= 1.0.1 =
+* 10/31/14 - Added support for custom post types
 
 = 1.0 =
 * 8/31/11 - Initial release

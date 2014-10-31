@@ -2,10 +2,10 @@
 	/* 
     Plugin Name: Advanced Dates
     Plugin URI: http://studiohyperset.com/wordpress-advanced-dates-plugin/4016
-    Description: Extending the literary, documentary, and archival potential of WordPress, this plugin allows publishers to easily customize the publication year of posts and pages. <em>w/ special thanks to <a href="http://www.ryanajarrett.com">Ryan Jarrett</a></em>
+    Description: Extending the literary, documentary, and archival potential of WordPress, this plugin allows publishers to easily customize the publication year of posts and pages. <em>w/ special thanks to <a href="http://www.ryanajarrett.com">Ryan Jarrett</a> and <a href="http://cantuaria.net.br/">Bruno Cantuaria</a></em>.
 	Version: 1.0.1
     Author: Studio Hyperset, Inc. 
-    Author URI: http://studiohyperset.com/posts
+    Author URI: http://studiohyperset.com
 	License: GPL3
     */  
 	
