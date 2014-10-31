@@ -3,7 +3,7 @@
     Plugin Name: Advanced Dates
     Plugin URI: http://studiohyperset.com/wordpress-advanced-dates-plugin/4016
     Description: Extending the literary, documentary, and archival potential of WordPress, this plugin allows publishers to easily customize the publication year of posts and pages. <em>w/ special thanks to <a href="http://www.ryanajarrett.com">Ryan Jarrett</a></em>
-	Version: 1.0 
+	Version: 1.0.1
     Author: Studio Hyperset, Inc. 
     Author URI: http://studiohyperset.com/posts
 	License: GPL3
@@ -91,6 +91,12 @@
 		if (get_option('advanceddates_bypost')) {
 			add_meta_box($meta_box['id'], $meta_box['title'], 'mytheme_show_box', $meta_box['page'], $meta_box['context'], $meta_box['priority']);
 			add_meta_box($meta_box['id'], $meta_box['title'], 'mytheme_show_box', 'page', $meta_box['context'], $meta_box['priority']);
+
+			$cps = get_post_types(array('_builtin' => false));
+			foreach ($cps as $cp) {
+				add_meta_box($meta_box['id'], $meta_box['title'], 'mytheme_show_box', $cp, $meta_box['context'], $meta_box['priority']);
+			}
+
 		}
 	}
 	
@@ -246,7 +252,7 @@
 						</td>
 					</tr>			
 					<tr valign="top">
-						<th scope="row"><strong>OPTION 2: Customize Dates on Individual Posts &amp; Pages</strong></th>
+						<th scope="row"><strong>OPTION 2: Customize Dates on Individual Posts, Custom Posts &amp; Pages</strong></th>
 						<td><input type="checkbox" onclick="document.getElementById('advanceddates_freeze_global').checked=false; document.getElementById('advanceddates_global').checked=false;" name="advanceddates_bypost" id="advanceddates_bypost" value="true" <?php if (get_option('advanceddates_bypost')) echo "checked"; ?> /></td>
 					</tr>
 					<tr>
