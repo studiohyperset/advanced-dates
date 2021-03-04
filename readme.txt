@@ -3,7 +3,7 @@ Contributors: studiohyperset, oqm4, ryanajarrett, cantuaria
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=C2KQADH2TGTS4
 Tags: dates, year, get_the_time, the_time, get_the_date, the_date, history, historical timestamp, old dates, pre-1969 timestamp, pre-1970 timestamp
 Requires at least: 3.0
-Tested up to: 5.4
+Tested up to: 5.7
 Stable tag: 1.0.1
 
 Allows publishers to easily customize the publication year of posts and pages.
